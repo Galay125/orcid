@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orcid-work put-code="581191" visibility="public" xmlns="http://www.orcid.org/ns/orcid">
+    <work-title>
+        <title>Teste</title>
+        <subtitle>Atum</subtitle>
+    </work-title>
+    <journal-title>JN</journal-title>
+    <work-type>book</work-type>
+    <publication-date>
+        <year>2000</year>
+        <month>03</month>
+        <day>17</day>
+    </publication-date>
+    <work-external-identifiers>
+        <work-external-identifier>
+            <work-external-identifier-type>other-id</work-external-identifier-type>
+            <work-external-identifier-id>Local CRIS</work-external-identifier-id>
+        </work-external-identifier>
+    </work-external-identifiers>
+    <url>http://localhost</url>
+    <source>
+        <source-orcid>
+            <uri>http://sandbox.orcid.org/0000-0003-3351-0229</uri>
+            <path>0000-0003-3351-0229</path>
+            <host>sandbox.orcid.org</host>
+        </source-orcid>
+        <source-name>Mário Santos</source-name>
+        <source-date>2016-03-06T17:41:15.500Z</source-date>
+    </source>
+    <created-date>2016-03-06T17:41:15.500Z</created-date>
+    <last-modified-date>2016-03-11T19:26:04.441Z</last-modified-date>
+    <language-code>pt</language-code>
+    <country visibility="public">PT</country>
+</orcid-work>
+

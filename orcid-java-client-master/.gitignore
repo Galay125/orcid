@@ -1,0 +1,4 @@
+.*
+target
+testoauth.properties
+!/.gitignore
